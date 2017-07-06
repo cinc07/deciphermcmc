@@ -46,7 +46,7 @@ You can then run the program, to use MCMC algorithms to repeatedly attempt to de
 ```
 
 
-To learn how to modify the MCMC parameters, change the testing configuration, use different text samples, run the program on Microsoft Windows machines, and more, please see the README file.
+To learn how to modify the MCMC parameters, change the testing configuration, use different text samples, run the program on Microsoft Windows machines, and more, please see the README file in the code folder.
 
 
 
